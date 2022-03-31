@@ -25,7 +25,7 @@ void main()
 	{
 		for(j=0;j<3;j++)
 		{
-			if(i!=j&&a[i][j]!=0)
+			//if(i!=j&&a[i][j]!=0)
 			{
 				f=1;
 				break;
